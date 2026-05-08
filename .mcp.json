@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "aptos": {
+        "command": "npx",
+        "args": ["-y", "@aptos-labs/aptos-mcp"]
+      }
+    }
+  }
